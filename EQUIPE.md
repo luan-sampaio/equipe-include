@@ -2,7 +2,7 @@
 
 Este documento contém o perfil dos membros da equipe responsável pelo projeto **Equipe Include**, desenvolvido como parte da atividade prática sobre **Git e GitHub**.
 
-O objetivo é praticar o fluxo de trabalho do Git.
+O objetivo é simular um ambiente colaborativo de desenvolvimento, onde cada integrante contribui com seu próprio perfil e participa de revisões de código, pull requests e resolução de conflitos.
 
 ## :jigsaw: Membros da Equipe
 
