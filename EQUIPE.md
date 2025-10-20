@@ -33,5 +33,11 @@ Cada membro deve adicionar **sua própria seção** abaixo, seguindo o formato:
 2. (A ser preenchido por **Colaborador 2**)
 3. (A ser preenchido por **Colaborador 3**)
 4. (A ser preenchido por **Colaborador 4**)
+4. **Colaborador 4 - Nalanda Eduarda**
+- :plate_with_cutlery: Comida favorita: 
+- :dart: Hobbies ou o que gosta de fazer: Ouvir música
+- :computer: Área de interesse na tecnologia: Ànalise de Dados
+- :speech_balloon: Frase que te representa: Melhor se arrepender de ter feito do que de nunca ter feito
+- :dog: [Mude o emoji] Animal que você gosta ou te representa: raposa
 5. (A ser preenchido por **Colaborador 5**)
 6. (A ser preenchido por **Colaborador 6**)
