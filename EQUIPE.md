@@ -34,4 +34,10 @@ Cada membro deve adicionar **sua própria seção** abaixo, seguindo o formato:
 3. (A ser preenchido por **Colaborador 3**)
 4. (A ser preenchido por **Colaborador 4**)
 5. (A ser preenchido por **Colaborador 5**)
-6. (A ser preenchido por **Colaborador 6**)
+
+- **Nome:** Igor da Silva Rafael
+- :plate_with_cutlery: **Comida favorita:** tapioca com arraia
+- :dart: **Hobbies:** Tatuagem
+- :computer: **Área de interesse:** Jogos digitais
+- :speech_balloon: **Frase:** "Só existe uma de você, então seja a melhor versão."
+- :dog: **Animal:** axolote 
