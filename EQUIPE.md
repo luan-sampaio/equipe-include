@@ -8,15 +8,6 @@ O objetivo é simular um ambiente colaborativo de desenvolvimento, onde cada int
 
 Cada membro deve adicionar **sua própria seção** abaixo, seguindo o formato:
 
-
-### CAIO CESAR CACHINA DE SOUZA - COLABORADOR 3
-- :plate_with_cutlery: Comida favorita: Empadão de frango 
-- :dart: Hobbies ou o que gosta de fazer: Gosto de praticar exercícios físicos e ir à praia
-- :computer: Área de interesse na tecnologia: Gestão de TI
-- :speech_balloon: Frase que te representa: Enquanto há vida, há esperança. 
-- :lizard: Animal que você gosta ou te representa: Camaleão
-
-
 ### Exemplo
 - **Nome:** Pedro Henrique
 - :plate_with_cutlery: **Comida favorita:** Pizza
@@ -35,17 +26,25 @@ Cada membro deve adicionar **sua própria seção** abaixo, seguindo o formato:
 - :computer: **Área de interesse:** IA e Machine Learning
 - :speech_balloon: **Frase:** Think I'll miss you forever, Like the stars miss the sun in the morning sky.
 - :cat: **Animal**: Gato preto
+
 2. (A ser preenchido por **Colaborador 2**)
+
 3. (KXINACC)
-4. (A ser preenchido por **Colaborador 4**)
+### CAIO CESAR CACHINA DE SOUZA - COLABORADOR 3
+- :plate_with_cutlery: Comida favorita: Empadão de frango 
+- :dart: Hobbies ou o que gosta de fazer: Gosto de praticar exercícios físicos e ir à praia
+- :computer: Área de interesse na tecnologia: Gestão de TI
+- :speech_balloon: Frase que te representa: Enquanto há vida, há esperança. 
+- :lizard: Animal que você gosta ou te representa: Camaleão
+
 4. **Colaborador 4 - Nalanda Eduarda**
 - :plate_with_cutlery: Comida favorita: 
 - :dart: Hobbies ou o que gosta de fazer: Ouvir música
 - :computer: Área de interesse na tecnologia: Ànalise de Dados
 - :speech_balloon: Frase que te representa: Melhor se arrepender de ter feito do que de nunca ter feito
 - :dog: [Mude o emoji] Animal que você gosta ou te representa: raposa
-5. (A ser preenchido por **Colaborador 5**)
 
+5. (A ser preenchido por **Colaborador 5**)
 - **Nome:** Igor da Silva Rafael
 - :plate_with_cutlery: **Comida favorita:** tapioca com arraia
 - :dart: **Hobbies:** Tatuagem
