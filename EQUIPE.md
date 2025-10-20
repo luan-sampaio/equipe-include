@@ -30,7 +30,13 @@ Cada membro deve adicionar **sua própria seção** abaixo, seguindo o formato:
 
 1. (A ser preenchido por **Líder**)
 2. (A ser preenchido por **Colaborador 1**)
-2. (A ser preenchido por **Colaborador 2**)
+2. **Nome:** David Santos
+    - :birthday: **Comida favorita:** Bolo de cenoura
+    - :running: **Hobbies:** Correr
+    - :computer: **Área de interesse:** Desenvolvimento Back-End
+    - :speech_balloon: **Frase:** O céu é o limite
+    - :smile_cat: **Animal**: Gato
+    
 3. (A ser preenchido por **Colaborador 3**)
 4. (A ser preenchido por **Colaborador 4**)
 5. (A ser preenchido por **Colaborador 5**)
