@@ -10,4 +10,4 @@ A tarefa principal consiste em criar um arquivo de perfil da equipe (EQUIPE.md).
 ## Estrutura da Equipe
 
 - **1 Líder/Mantenedor**: responsável pela criação e manutenção do repositório central e pelo *merge* dos Pull Requests na branch `main`.
-- **5 Colaboradores**: desenvolvem suas funcionalidades em branches separadas e sub
+- **5 Colaboradores**: desenvolvem suas funcionalidades em branches separadas e submetem Pull Requests para revisão.
