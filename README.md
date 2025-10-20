@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Este projeto tem como objetivo aprofundar os conhecimentos em Git e GitHub através da simulação de um ambiente de desenvolvimento colaborativo.
+Projeto para praticar o fluxo de trabalho do Git.
 
 ## Atividade Desenvolvida
 A tarefa principal consiste em criar um arquivo de perfil da equipe (EQUIPE.md). Cada membro será responsável por adicionar sua própria seção ao documento, utilizando um fluxo de trabalho profissional que inclui a criação de branches, a submissão de Pull Requests, a revisão de código dos colegas e a resolução de possíveis conflitos de merge.
