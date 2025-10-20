@@ -29,7 +29,12 @@ Cada membro deve adicionar **sua própria seção** abaixo, seguindo o formato:
 #### Perfis dos Membros
 
 1. (A ser preenchido por **Líder**)
-2. (A ser preenchido por **Colaborador 1**)
+2. **Colaborador 1 - Iara Kelly**
+- :plate_with_cutlery: **Comida favorita:** Pastel de chocolate
+- :dart: **Hobbies:** Costurar, Costumizar Roupas, Ouvir músicas.
+- :computer: **Área de interesse:** IA e Machine Learning
+- :speech_balloon: **Frase:** Think I'll miss you forever, Like the stars miss the sun in the morning sky.
+- :cat: **Animal**: Gato preto
 2. (A ser preenchido por **Colaborador 2**)
 3. (A ser preenchido por **Colaborador 3**)
 4. (A ser preenchido por **Colaborador 4**)
