@@ -9,12 +9,12 @@ O objetivo é simular um ambiente colaborativo de desenvolvimento, onde cada int
 Cada membro deve adicionar **sua própria seção** abaixo, seguindo o formato:
 
 
-### Nome Completo
-- :plate_with_cutlery: Comida favorita:
-- :dart: Hobbies ou o que gosta de fazer:
-- :computer: Área de interesse na tecnologia: 
-- :speech_balloon: Frase que te representa:
-- :dog: [Mude o emoji] Animal que você gosta ou te representa:
+### CAIO CESAR CACHINA DE SOUZA - COLABORADOR 3
+- :plate_with_cutlery: Comida favorita: Empadão de frango 
+- :dart: Hobbies ou o que gosta de fazer: Gosto de praticar exercícios físicos e ir à praia
+- :computer: Área de interesse na tecnologia: Gestão de TI
+- :speech_balloon: Frase que te representa: Enquanto há vida, há esperança. 
+- :lizard: Animal que você gosta ou te representa: Camaleão
 
 
 ### Exemplo
@@ -31,7 +31,7 @@ Cada membro deve adicionar **sua própria seção** abaixo, seguindo o formato:
 1. (A ser preenchido por **Líder**)
 2. (A ser preenchido por **Colaborador 1**)
 2. (A ser preenchido por **Colaborador 2**)
-3. (A ser preenchido por **Colaborador 3**)
+3. (KXINACC)
 4. (A ser preenchido por **Colaborador 4**)
 5. (A ser preenchido por **Colaborador 5**)
 6. (A ser preenchido por **Colaborador 6**)
