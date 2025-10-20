@@ -28,7 +28,13 @@ Cada membro deve adicionar **sua própria seção** abaixo, seguindo o formato:
 
 #### Perfis dos Membros
 
-1. (A ser preenchido por **Líder**)
+1. **Líder** - Luan Sampaio
+- :plate_with_cutlery: **Comida favorita:** Lasanha
+- :dart: **Hobbies:** Assistir séries e filmes. Ler uns livros
+- :computer: **Área de interesse:** Mobile, Back-end e redes
+- :speech_balloon: **Frase:** "We are what we repeatedly do. Excellence, then, is not an act, but a habit." - Aristotle
+- :panda_face: **Animal**: Panda
+
 2. (A ser preenchido por **Colaborador 1**)
 2. (A ser preenchido por **Colaborador 2**)
 3. (A ser preenchido por **Colaborador 3**)
